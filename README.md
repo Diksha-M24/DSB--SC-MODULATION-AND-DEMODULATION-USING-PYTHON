@@ -58,13 +58,11 @@ plt.show()
 ~~~
    __Tabulation__:
 
-
 ![WhatsApp Image 2025-11-26 at 20 39 54_c26b3e56](https://github.com/user-attachments/assets/524c8fdc-d211-46a0-a2da-c25397714af7)
 
-
    __Output__:
+   
    <img width="987" height="587" alt="image" src="https://github.com/user-attachments/assets/4d76366c-31cb-4033-8369-e0769329aa4d" />
-
 
    __Result__:
 
